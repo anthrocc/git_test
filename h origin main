@@ -1,0 +1,17 @@
+[33mcommit e1a2502e9a354d454da255a56ab87063fd8cb6cf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Anthony Roccasalva <anthony.roccasalva@gmail.com>
+Date:   Sun Jun 12 17:56:59 2022 -0400
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 16c6abbfec43618281e9889806cc16e6ac1c78ad[m
+Author: Anthony Roccasalva <anthony.roccasalva@gmail.com>
+Date:   Sun Jun 12 17:53:48 2022 -0400
+
+    Add hello_world.txt
+
+[33mcommit 726a3c0cb2465af72e4c3c83ec2bfd15434c3068[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Anthony Roccasalva <Anthony.Roccasalva@gmail.com>
+Date:   Sun Jun 12 17:49:30 2022 -0400
+
+    Initial commit
